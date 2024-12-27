@@ -19,7 +19,6 @@ Project description
 ## Usage
 
 ```bash
-npm run lint
-npm run build
-npm start
+go run .
+go build
 ```
